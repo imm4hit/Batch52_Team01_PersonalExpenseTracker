@@ -214,3 +214,4 @@ The project uses several important concepts of C programming:
 SPENDEMIC was created as a simple budget and expense management system.
 
 The project demonstrates how fundamental C programming concepts can be combined to create a complete command-line application with multiple useful features.
+"WE HAVE USED AI TOOLS IN THE MAKING OF THIS README FILE, CODE CORRECTON/HELP WITH LOGICAL PROBLEMS AND WITH PRESENTATION (edited it with canva later)"
